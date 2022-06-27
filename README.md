@@ -16,6 +16,12 @@ Sorted by name
 * Programming language **[VKode](https://github.com/vitkozel/VKode)**
 * **[vitkozel](https://github.com/vitkozel/vitkozel)**
 
+# Contact
+
+If you'd like to contact me for some reason, please send an email to **vitek.kozel@email.cz**.
+
+You can also try one of my profiles on social networks, you'll find them at [imory.tk](http://imory.tk)
+
 ## Pro cechacky (a slovaky)
 Vitej na mem Githubu. Vituv 100% osobni profil. Vsechny linky najdes na 
 https://imory.tk/
