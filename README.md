@@ -8,10 +8,13 @@ I have an urge to create programming languages for some reason. I have published
 
 ## Full list of my public repos
 
+Sorted by name
+
 * My own, totally useless **[Guam IDE](https://github.com/vitkozel/Guam-IDE)**
 * Programming language **[Lumeo](https://github.com/vitkozel/Lumeo)**
 * **[Lumeo Builds](https://github.com/vitkozel/Lumeo-builds)**
-**[Guam IDE](https://github.com/vitkozel/Guam-IDE)**
+* Programming language **[VKode](https://github.com/vitkozel/VKode)**
+* **[vitkozel](https://github.com/vitkozel/vitkozel)**
 
 ## Pro cechacky (a slovaky)
 Vitej na mem Githubu. Vituv 100% osobni profil. Vsechny linky najdes na 
