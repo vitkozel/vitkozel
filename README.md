@@ -2,7 +2,7 @@
 
 I'm not sure why I'm doint this
 
-## 🇨🇿 Pro cechacky (a slovaky)
+## :flag_cz: Pro cechacky (a slovaky)
 Vitej na mem Githubu. Vituv 100% osobni profil. Vsechny linky najdes na 
 https://imory.tk/
 
