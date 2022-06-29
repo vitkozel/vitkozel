@@ -21,6 +21,7 @@ Lumeo repositories (under the [@LumeoLang organisation](https://github.com/Lumeo
 * **[Lumeo Builds](https://github.com/LumeoLang/Builds)**
 * **[LPM](https://github.com/LumeoLang/LPM)**
 * **[Lumeo Docs](https://github.com/LumeoLang/Docs)**
+* **[Lumeo Installer for Windows](https://github.com/LumeoLang/WinInstaller)**
 
 # Contact
 
