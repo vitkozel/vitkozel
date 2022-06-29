@@ -12,9 +12,13 @@ Sorted by name
 
 * My own, totally useless **[Guam IDE](https://github.com/vitkozel/Guam-IDE)**
 * Programming language **[Lumeo](https://github.com/vitkozel/Lumeo)**
-* **[Lumeo Builds](https://github.com/vitkozel/Lumeo-builds)**
 * Programming language **[VKode](https://github.com/vitkozel/VKode)**
 * **[vitkozel](https://github.com/vitkozel/vitkozel)**
+Lumeo repositories:
+* **[Lumeo](https://github.com/LumeoLang/Lumeo)**
+* **[Lumeo Builds](https://github.com/LumeoLang/Builds)**
+* **[LPM](https://github.com/LumeoLang/LPM)**
+* **[Lumeo Docs](https://github.com/LumeoLang/Docs)**
 
 # Contact
 
