@@ -16,7 +16,7 @@ Sorted by name
 * **[vitkozel](https://github.com/vitkozel/vitkozel)**
 
 
-Lumeo repositories:
+Lumeo repositories (under the [@LumeoLang organisation](https://github.com/LumeoLang/)):
 * **[Lumeo](https://github.com/LumeoLang/Lumeo)**
 * **[Lumeo Builds](https://github.com/LumeoLang/Builds)**
 * **[LPM](https://github.com/LumeoLang/LPM)**
