@@ -12,7 +12,7 @@ Sorted by name
 
 * My own, totally useless **[Guam IDE](https://github.com/vitkozel/Guam-IDE)**
 * Programming language **[Lumeo](https://github.com/vitkozel/Lumeo)**
-* Programming language **[VKode](https://github.com/vitkozel/VKode)**
+* Programming language **[VKode](https://github.com/vitkozel/VKode)** (Archived)
 * **[vitkozel](https://github.com/vitkozel/vitkozel)**
 
 
