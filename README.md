@@ -2,6 +2,8 @@
 
 I'm not sure why I'm doing this.
 
+I can do Go, I can do C#, Python, HTML, CSS... VKode and Lumeo (joy emoji)
+
 # My projects
 
 I have an urge to create programming languages for some reason. I have published two here on Github, [one of which sucks](https://github.com/vitkozel/VKode) and the [other one is completely unusable yet](https://github.com/vitkozel/Lumeo).
