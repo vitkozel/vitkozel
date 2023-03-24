@@ -2,7 +2,7 @@
 
 I'm not sure why I'm doing this.
 
-I can do Go, I can do C#, Python, HTML, CSS... VKode and Lumeo (joy emoji). I also learn Rust, but i suck at it.
+I can do Go, I can do C#, JS, Python, HTML, CSS... VKode and Lumeo (joy emoji). I also learn Rust, but i suck at it.
 
 # Contact
 
